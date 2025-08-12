@@ -1,0 +1,12 @@
+{
+  "name": "pincode-search-vercel",
+  "version": "1.0.0",
+  "description": "Pincode search + price calculator (Normal/Urgent) for Vercel",
+  "main": "api/search.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
